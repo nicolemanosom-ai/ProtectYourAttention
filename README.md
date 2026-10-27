@@ -16,17 +16,6 @@ Play the game by copying the link below: https://arcade.makecode.com/S55730-5188
 ## Project Status
 This game is currently a prototype
 
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
 
 ## Acknowledgements
 Give credit here.
